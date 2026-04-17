@@ -193,7 +193,7 @@ A slick, interactive **Rock Paper Scissors game** running in the browser. Player
 
 [![GitHub](https://img.shields.io/badge/GitHub-Prathamesh2867-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prathamesh2867)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-kumbhar-18400a346?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-prathamesh8767@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathamesh8767@gmail.com)
 
 </div>
 
